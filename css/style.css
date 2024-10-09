@@ -91,16 +91,10 @@ body {
   }
   }
 
-.farm{
-  min-height: 100vh;
-  background-color: var(--light-bg);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding:2rem;
-}
   
-
 .btn{
     background-color: var(--white);
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
 }
